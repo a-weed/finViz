@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import PySimpleGUI as sg
 
 
@@ -19,6 +18,3 @@ while True:
         break
 
 window.close
-=======
-print("Hello World!")
->>>>>>> 3b11e8246439b46c6ccdffcea213e4d1aa07055e
