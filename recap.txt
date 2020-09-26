@@ -1,2 +1,3 @@
 Websocket.org -- use push API instead of pulling nonstop from rest api
 looks like it'll be yahoo finance, check td-ameritrade account for L2 API's
+https://realpython.com/pysimplegui-python/
