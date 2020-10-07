@@ -5,7 +5,7 @@ print("Hello World!")
 
 ##sg.Window(title="Hello World", layout=[[]], margins=(100,50)).read()
 
-layout = [[sg.Text("Hello from PySimpleGUI")], [sg.Button("OK")]]
+layout = [[sg.Text("Hello from PySimpleGUI")], [sg.Button("OK")], [sg.Text("Press OK to close window")]]
 
 #Create the window
 window = sg.Window("Demo", layout)
